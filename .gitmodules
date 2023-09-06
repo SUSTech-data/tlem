@@ -1,0 +1,6 @@
+[submodule "tlem-hf"]
+	path = tlem-hf
+	url = https://huggingface.co/spaces/SUSTech/tlem
+[submodule "tlem"]
+	path = tlem
+	url = git@hf.co:spaces/SUSTech/tlem
